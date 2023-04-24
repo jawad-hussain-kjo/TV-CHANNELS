@@ -1,9 +1,8 @@
 
 #EXTM3U
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="PAK_SINDHI", AWAZ TV
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323359
@@ -22,9 +21,8 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323305
 #EXTINF:-1 group-title="PAK_SINDHI", Sindh News
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323306
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="PAK_NEWS", GEO NEWS (UK BROADCASTING)
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323365
@@ -63,9 +61,8 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323289
 #EXTINF:-1 group-title="PAK_NEWS", Abbtak News
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323291
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="PAK_PTV", PTV NATIONAL
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323314
@@ -74,9 +71,8 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323347
 #EXTINF:-1 group-title="PAK_PTV", PTV HOME HD
 http://180.178.188.152:8000/play/a072
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="DOCUMENTARY", Discover Pakistan
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323341
@@ -85,9 +81,8 @@ http://180.178.188.152:8000/play/a08d
 #EXTINF:-1 group-title="PAK_COOKING", HUM MASALA
 http://180.178.188.152:8000/play/a08j
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="PAK_DRAMA", Bol Entertainment HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323319
@@ -128,24 +123,22 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323321
 #EXTINF:-1 group-title="PAK_DRAMA", PLAY ENTERTAINMENT
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323324
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="IND_CARTOON", Cartoon Network (Arabic)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="IND_CARTOON", Cartoon Network (India)
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318993
 #EXTINF:-1 group-title="IND_CARTOON", DISNEY HD (Hindi)
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_CARTOON" , Pogo
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318940
 #EXTINF:-1 group-title="IND_CARTOON" , Sony yay
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318958
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="IND_SONY", Sony Pal 
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318885
@@ -157,7 +150,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318849
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="IND_SONY", Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-
 #EXTINF:-1 group-title="IND_STAR", Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSHD/playlist.m3u8?token=test
 #EXTINF:-1 group-title="IND_STAR", Star Plus HD (INDIA)
@@ -174,7 +166,6 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318825
 #EXTINF:-1 group-title="IND_STAR", Star Pravah HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318826
-
 #EXTINF:-1 group-title="IND_COLORS", Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
 #EXTINF:-1 group-title="IND_COLORS", Colors INDIA HD
@@ -189,7 +180,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318860
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318861
 #EXTINF:-1 group-title="IND_COLORS", Colors Marathi HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318862
-
 #EXTINF:-1 group-title="IND_ZEE", Zee Anmol
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/319068
 #EXTINF:-1 group-title="IND_ZEE", Zee Bihar JH
@@ -216,11 +206,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/319078
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/319079
 #EXTINF:-1 group-title="IND_ZEE", Zee Yuva
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/319080
-
-===============================================================
-==============================================================
-===============================================================
-
 #EXTINF:-1 group-title="IND_AND", &TV HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318884
 #EXTINF:-1 group-title="IND_AND", &Pictures TV
@@ -228,13 +213,13 @@ http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 group-title="IND_AND", &flix TV
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318833
 
-===============================================================
-==============================================================
-===============================================================
+
+
+
 #EXTINF:-1 group-title="PAK_SPORTS", MAQ TV CRICKET (OFF)
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_SPORTS", FAST SPORTS HD (OFF)
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_SPORTS", Geo Super
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323337
 #EXTINF:-1 group-title="PAK_PTV", PTV SPORTS HD
@@ -242,10 +227,10 @@ http://180.178.188.152:8000/play/a075
 #EXTINF:-1 group-title="PAK_SPORTS", TEN SPORTS HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318905
 #EXTINF:-1 group-title="PAK_SPORTS", A Sports HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_SPORTS", Astro Cricket HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/150131
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="INT_CRICKET", TEN CRICKET
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/318905
 #EXTINF:-1 group-title="IND_STAR", Star Sports 1 (HINDI)
@@ -267,23 +252,20 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 group-title="IND_SONYIND_SPORTS", Sony Sports 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="ISLAMIC", PAIGHAM URDU
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323349
 #EXTINF:-1 group-title="ISLAMIC", MADNI TV
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ISLAMIC", Islam Channel Urdu
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ISLAMIC", مصر القرآن الکریم
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ISLAMIC", مجد القرآن الکریم
-------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="ISLAMIC", ARY QTV
-------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="ISLAMIC", قناۃ المکۃ
 https://list.iptvcat.com/my_list/s/e229e04f56a2bc604b73c4f1c930e9b3.m3u8
@@ -300,9 +282,8 @@ https://list.iptvcat.com/my_list/s/2fbd18721fb74e24d189e347778f978c.m3u8
 #EXTINF:-1 group-title="ISLAMIC", اذاعۃ القرآن الکریم شارقۃ 
 https://list.iptvcat.com/my_list/s/5ac6f0ffe453f2a1a7d8acf0e2f8154d.m3u8
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1  group-title="ARABIC", Saudia HD
 https://list.iptvcat.com/my_list/s/39a6154a8aa4afb7419ee00fda2ae06d.m3u8
@@ -416,22 +397,20 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="ARB_SYRIA", Syria News Channel
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 
-===============================================================
-==============================================================
-===============================================================
+
+
 
 #EXTINF:-1 group-title="DOCUMENTARY", Discovery (Hindi)
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", Investigation Discovery (Hindi)
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", Animal Planet (Hindi)
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", Nat Geo Wild (HINDI)
-------------------------------------------------------------------------
 
-===============================================================
-==============================================================
-===============================================================
+#EXTINF:-1 group-title="DOCUMENTARY", Investigation Discovery (Hindi)
+
+#EXTINF:-1 group-title="DOCUMENTARY", Animal Planet (Hindi)
+
+#EXTINF:-1 group-title="DOCUMENTARY", Nat Geo Wild (HINDI)
+
+
+
+
 
 #EXTINF:-1  group-title="ARB_JAZEERA", Al Jazeera ARABIC
 https://list.iptvcat.com/my_list/s/2faaa85a7947e15517cd117550bd2928.m3u8
@@ -442,24 +421,23 @@ https://list.iptvcat.com/my_list/s/46bdf332510a993bc908e80665116586.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY", ANIMAL PLANET
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", NAT Geo Wild
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", Discovery Science
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", Discovery Turbo
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="DOCUMENTARY", National Geographic HD
-------------------------------------------------------------------------
 
-===============================================================
-==============================================================
-===============================================================
+#EXTINF:-1 group-title="DOCUMENTARY", NAT Geo Wild
+
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY
+
+#EXTINF:-1 group-title="DOCUMENTARY", Discovery Science
+
+#EXTINF:-1 group-title="DOCUMENTARY", Discovery Turbo
+
+#EXTINF:-1 group-title="DOCUMENTARY", National Geographic HD
+
+
+
+
 
 #EXTINF:-1  group-title="ARB_SPORTS",, KSA Sports 1 HD
-------------------------------------------------------------------------
+
 
 #EXTINF:-1  group-title="ARB_SPORTS",, KSA Sports 2 HD
 https://edge.taghtia.com/sa/10.m3u8
@@ -469,15 +447,15 @@ https://edge.taghtia.com/sa/16.m3u8
 https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1  group-title="ARB_SPORTS",, Abu Dhabi Sports 1 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1  group-title="ARB_SPORTS",, Abu Dhabi Sports 2 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1  group-title="ARB_SPORTS",, Abu Dhabi Sports 3 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1  group-title="ARB_SPORTS",, Abu Dhabi Sports 4 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1  group-title="ARB_SPORTS",, Dubai Sport 1 HD
-------------------------------------------------------------------------
+
 
 #EXTINF:-1  group-title="ARB_SPORTS",, Dubai Sport 2 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
@@ -489,135 +467,151 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="ARB_SPORTS",, Al Sharjah Sports HD 
-------------------------------------------------------------------------
+
 
 #EXTINF:-1 group-title="ARB_SPORTS", SSC 1 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ARB_SPORTS", SSC 2 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ARB_SPORTS", SSC 3 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ARB_SPORTS", SSC 4 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ARB_SPORTS", SSC 5 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="ARB_SPORTS", SSC EXTRA 1 HD
-------------------------------------------------------------------------
 
 
-===============================================================
-==============================================================
-===============================================================
+
+
+
 
 #EXTINF:-1 group-title="TRK_TRT", TRT 1 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="TRK_TRT", TRT 3 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="TRK_TRT", TRT SPOR HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="TRK_TRT", TRT SPOR 2 HD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="TRK_TRT", TRT TURK
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="TRK_TRT", TRT ARABI
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TRK_TRT", TRT WORLD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT MUZIK HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT OKUL
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT HABER HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT DIYANET
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT COCUK
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT BELGESEL HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT AVAZ
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT KURDI
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="TRK_TRT", TRT EBA TV İlkokul
-------------------------------------------------------------------------
 
-===============================================================
-==============================================================
-===============================================================
+#EXTINF:-1 group-title="TRK_TRT", TRT MUZIK HD
+
+#EXTINF:-1 group-title="TRK_TRT", TRT OKUL
+
+#EXTINF:-1 group-title="TRK_TRT", TRT HABER HD
+
+#EXTINF:-1 group-title="TRK_TRT", TRT DIYANET
+
+#EXTINF:-1 group-title="TRK_TRT", TRT COCUK
+
+#EXTINF:-1 group-title="TRK_TRT", TRT BELGESEL HD
+
+#EXTINF:-1 group-title="TRK_TRT", TRT AVAZ
+
+#EXTINF:-1 group-title="TRK_TRT", TRT KURDI
+
+#EXTINF:-1 group-title="TRK_TRT", TRT EBA TV İlkokul
+
+
+
+
 
 #EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC News HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Arabic HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Arabic
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC EARTH HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC EARTH FHD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Earth UHD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Gujarati
-------------------------------------------------------------------------
 
-===============================================================
-==============================================================
-===============================================================
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Arabic HD
+
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Arabic
+
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC EARTH HD
+
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC EARTH FHD
+
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Earth UHD
+
+#EXTINF:-1 group-title="INT_BBC_CHANNELS", BBC Gujarati
+
+
+
+
 
 #EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN INTERNATIONAL
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN News HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Indonesia
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN En Espanol
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Chile
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Philippines
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN TURK HD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Turk FHD
-------------------------------------------------------------------------
-#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Mexico
-------------------------------------------------------------------------
 
-===============================================================
-==============================================================
-===============================================================
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN News HD
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Indonesia
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN En Espanol
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Chile
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Philippines
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN TURK HD
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Turk FHD
+
+#EXTINF:-1 group-title="INT_CNN_CHANNELS", CNN Mexico
+
+
+
+
 
 #EXTINF:-1 group-title="PAK_MUSIC", Ary Music Pk
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_MUSIC", 8XM
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_MUSIC", SBI MUSIC
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_MUSIC", OXYGEN MUSIC
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_MUSIC", JOO MUSIC
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="PAK_MUSIC", jalwa MUSIC
-------------------------------------------------------------------------
+
 
 #EXTINF:-1 group-title="IND_MUSIC", 9xm
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", B4u Music
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", 9x Jalwa
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", MTV BEAT FHD
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", 9x Tashan
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", Mastii
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", MUSIC INDIA
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", MTV India
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", 9X Jhakaas
-------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="IND_MUSIC", 24/7 MUSIC
-------------------------------------------------------------------------
+
+
+
+
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 01 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 02 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 03 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 04 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 05 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 06 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 07 LOLLYWOOD 24/7
+
+#EXTINF:-1 group-title="PAK_MOVIE" , 08 LOLLYWOOD 24/7
+
