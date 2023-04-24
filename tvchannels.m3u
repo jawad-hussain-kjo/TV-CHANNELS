@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-
-
-
 #EXTINF:-1 group-title="PAK_SINDHI", AWAZ TV
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323359
 #EXTINF:-1 group-title="PAK_SINDHI", KTN TV
@@ -20,9 +17,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323355
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323305
 #EXTINF:-1 group-title="PAK_SINDHI", Sindh News
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323306
-
-
-
 
 #EXTINF:-1 group-title="PAK_NEWS", GEO NEWS (UK BROADCASTING)
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/323365
